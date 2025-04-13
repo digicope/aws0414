@@ -22,10 +22,19 @@
 ## AWS Workshop [중급]
 <br>
 
-### Analytics on AWS [실습] : https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR
+### Analytics on AWS : https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR
 <br>
 
-### AWS Redshift Lab [실습]: https://catalog.us-east-1.prod.workshops.aws/workshops/9f29cdba-66c0-445e-8cbb-28a092cb5ba7/en-US/lab1
+### AWS Redshift Lab : https://catalog.us-east-1.prod.workshops.aws/workshops/9f29cdba-66c0-445e-8cbb-28a092cb5ba7/en-US
+<br>
+
+### Amazon MSK Labs : https://catalog.workshops.aws/msk-labs/en-US
+<br>
+
+### Real Time Streaming with Amazon Kinesis: https://catalog.us-east-1.prod.workshops.aws/workshops/2300137e-f2ac-4eb9-a4ac-3d25026b235f/en-US/
+<br>
+
+###  AWS Serverless Data Lake Jumpstart: https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194/en-US
 <br>
 
 ### AWS Glue [문서]: https://docs.aws.amazon.com/ko_kr/glue/latest/dg/components-key-concepts.html
