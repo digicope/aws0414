@@ -15,6 +15,7 @@
 
 ### Amazon SageMaker Studio 사용법 : https://aws.amazon.com/ko/getting-started/hands-on/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/
 <br>
+
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
 
