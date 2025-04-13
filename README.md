@@ -37,6 +37,9 @@
 ###  AWS Serverless Data Lake Jumpstart: https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194/en-US
 <br>
 
+### AWS Glue DataBrew : https://catalog.us-east-1.prod.workshops.aws/workshops/6532bf37-3ad2-4844-bd26-d775a31ce1fa/en-US
+<br>
+
 ### AWS Glue [문서]: https://docs.aws.amazon.com/ko_kr/glue/latest/dg/components-key-concepts.html
 <br>
 
