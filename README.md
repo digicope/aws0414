@@ -2,7 +2,7 @@
 <br>
 
 ## git 주소 :    https://github.com/digicope/aws0414
-#### (git 사용기간 : (2025.04.18 이후에는 접속 불가)
+#### (git 사용기간 : 2025.04.18 이후에는 접속 불가)
 
 ### Analytics on AWS [실습] : https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR
 <br>
