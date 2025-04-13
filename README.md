@@ -5,7 +5,7 @@
 #### (git 사용기간 : 2025.04.18 이후에는 접속 불가)
 <br>
 
-## AWS Workshop
+## AWS Workshop [고급]
 <br>
 
 
@@ -17,10 +17,9 @@
 
 ### Serverless Data Lake Framework Workshop : https://catalog.us-east-1.prod.workshops.aws/workshops/501cb14c-91b3-455c-a2a9-d0a21ce68114/en-US
 <br>
-
-###
 <br>
 
+## AWS Workshop [중급]
 <br>
 
 ### Analytics on AWS [실습] : https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR
