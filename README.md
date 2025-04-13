@@ -17,6 +17,9 @@
 
 ### Serverless Data Lake Framework Workshop : https://catalog.us-east-1.prod.workshops.aws/workshops/501cb14c-91b3-455c-a2a9-d0a21ce68114/en-US
 <br>
+
+###  AWS Serverless Data Lake Jumpstart: https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194/en-US
+<br>
 <br>
 
 ## AWS Workshop [중급]
@@ -32,9 +35,6 @@
 <br>
 
 ### Real Time Streaming with Amazon Kinesis: https://catalog.us-east-1.prod.workshops.aws/workshops/2300137e-f2ac-4eb9-a4ac-3d25026b235f/en-US/
-<br>
-
-###  AWS Serverless Data Lake Jumpstart: https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194/en-US
 <br>
 
 ### AWS Glue DataBrew : https://catalog.us-east-1.prod.workshops.aws/workshops/6532bf37-3ad2-4844-bd26-d775a31ce1fa/en-US
