@@ -13,7 +13,7 @@
 ### AWS Glue [문서]: https://docs.aws.amazon.com/ko_kr/glue/latest/dg/components-key-concepts.html
 <br>
 
-### Amazon SageMaker Studio 사용법 : https://aws.amazon.com/ko/getting-started/hands-on/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/
+### Amazon SageMaker Studio 사용법 [문서] : https://aws.amazon.com/ko/getting-started/hands-on/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/
 <br>
 
 #### 강사: 고병화
