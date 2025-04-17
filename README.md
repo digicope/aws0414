@@ -18,6 +18,9 @@
 ### Serverless Data Lake Framework Workshop : https://catalog.us-east-1.prod.workshops.aws/workshops/501cb14c-91b3-455c-a2a9-d0a21ce68114/en-US
 <br>
 
+### DDK Serverless Data Lake Framework : https://catalog.us-east-1.prod.workshops.aws/workshops/28010662-4e98-48a7-a8ea-9e42aafa85f7/en-US
+<br>
+
 ###  AWS Serverless Data Lake Jumpstart: https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194/en-US
 <br>
 <br>
